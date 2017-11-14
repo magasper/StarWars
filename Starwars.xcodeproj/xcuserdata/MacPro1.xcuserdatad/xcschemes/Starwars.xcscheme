@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "480CB2FF1FBB548F00480A1A"
-               BuildableName = "Starwars.app"
-               BlueprintName = "Starwars"
-               ReferencedContainer = "container:Starwars.xcodeproj">
+               BlueprintIdentifier = "A1E306341FB9408100BF8606"
+               BuildableName = "starwars.app"
+               BlueprintName = "starwars"
+               ReferencedContainer = "container:starwars.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A1E3064C1FB9408200BF8606"
+               BuildableName = "starwarsTests.xctest"
+               BlueprintName = "starwarsTests"
+               ReferencedContainer = "container:starwars.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A1E306571FB9408200BF8606"
+               BuildableName = "starwarsUITests.xctest"
+               BlueprintName = "starwarsUITests"
+               ReferencedContainer = "container:starwars.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "480CB2FF1FBB548F00480A1A"
-            BuildableName = "Starwars.app"
-            BlueprintName = "Starwars"
-            ReferencedContainer = "container:Starwars.xcodeproj">
+            BlueprintIdentifier = "A1E306341FB9408100BF8606"
+            BuildableName = "starwars.app"
+            BlueprintName = "starwars"
+            ReferencedContainer = "container:starwars.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "480CB2FF1FBB548F00480A1A"
-            BuildableName = "Starwars.app"
-            BlueprintName = "Starwars"
-            ReferencedContainer = "container:Starwars.xcodeproj">
+            BlueprintIdentifier = "A1E306341FB9408100BF8606"
+            BuildableName = "starwars.app"
+            BlueprintName = "starwars"
+            ReferencedContainer = "container:starwars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "480CB2FF1FBB548F00480A1A"
-            BuildableName = "Starwars.app"
-            BlueprintName = "Starwars"
-            ReferencedContainer = "container:Starwars.xcodeproj">
+            BlueprintIdentifier = "A1E306341FB9408100BF8606"
+            BuildableName = "starwars.app"
+            BlueprintName = "starwars"
+            ReferencedContainer = "container:starwars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

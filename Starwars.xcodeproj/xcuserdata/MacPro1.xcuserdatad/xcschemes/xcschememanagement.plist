@@ -4,15 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Starwars.xcscheme</key>
+		<key>starwars.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>480CB2FF1FBB548F00480A1A</key>
+		<key>A1E306341FB9408100BF8606</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E3064C1FB9408200BF8606</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A1E306571FB9408200BF8606</key>
 		<dict>
 			<key>primary</key>
 			<true/>
